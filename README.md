@@ -1,15 +1,3 @@
----
-title: Data Exfiltration in Power Query
-author: Oscar
-pubDatetime: 2025-04-21T00:00:00.000+01:00
-slug: data-exfiltration-in-power-query
-featured: false
-draft: false
-tags:
-  - Power Query
-  - Security
-description: "Data Exfiltration in Power Query: Understanding the Risk and Protections"
----
 # Data Exfiltration in Power Query: Understanding the Risk and Protections
 
 Written by : [Oscar Martínez Valero](https://www.linkedin.com/in/oscarmartinezv/)
